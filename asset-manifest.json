@@ -1,7 +1,7 @@
 {
   "main.css": "/my-reads/static/css/main.2d6b8450.chunk.css",
-  "main.js": "/my-reads/static/js/main.ee1223dd.chunk.js",
-  "main.js.map": "/my-reads/static/js/main.ee1223dd.chunk.js.map",
+  "main.js": "/my-reads/static/js/main.d90c08d5.chunk.js",
+  "main.js.map": "/my-reads/static/js/main.d90c08d5.chunk.js.map",
   "static/js/1.852bae8a.chunk.js": "/my-reads/static/js/1.852bae8a.chunk.js",
   "static/js/1.852bae8a.chunk.js.map": "/my-reads/static/js/1.852bae8a.chunk.js.map",
   "runtime~main.js": "/my-reads/static/js/runtime~main.d3c91a85.js",
@@ -11,6 +11,6 @@
   "static/media/SearchPage.css": "/my-reads/static/media/arrow-back.20e8847d.svg",
   "static/media/BookShelf.css": "/my-reads/static/media/add.75d390e5.svg",
   "index.html": "/my-reads/index.html",
-  "precache-manifest.5511d5aed510a2d04339725e87eec300.js": "/my-reads/precache-manifest.5511d5aed510a2d04339725e87eec300.js",
+  "precache-manifest.dcc04b57461eb6a53b2d4bc4caed65b0.js": "/my-reads/precache-manifest.dcc04b57461eb6a53b2d4bc4caed65b0.js",
   "service-worker.js": "/my-reads/service-worker.js"
 }
